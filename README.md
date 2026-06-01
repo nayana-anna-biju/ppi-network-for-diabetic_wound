@@ -57,11 +57,5 @@ This project focuses on analyzing Protein-Protein Interaction (PPI) networks rel
 
 ---
 
-## Author
-- BTech CSE (AI & ML) Student  
-- Interested in Computational Neuroscience and Bioinformatics
-
----
-
 ## Note
 This project is part of academic learning and exploratory research in computational biology and network analysis.
